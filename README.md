@@ -24,7 +24,7 @@ Locate a mono-chrome image (i.e. input.png) at this folder.
 ./run.sh input.png out.png
 ```
 
-First time you execute this, you might be waited about 15 minutes.
+First time you execute this, you might wait about 15 minutes.
 
 After second time, you can get output after a few seconds.
 
